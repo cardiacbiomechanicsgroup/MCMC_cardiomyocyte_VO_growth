@@ -11,7 +11,7 @@ Details of the methodology is provided in Bracamonte et al. (2024) PLOS Computat
 Intructions:
 
 1) Download the zip folder, uncompress in desired directory.
-2) Select analysis modality:
+2) Select analysis modality.
 2.1.) run_MCMC_VO: Runs an MCMC analysis of organ-scale and molecular scale data to produce the probability distribution of Cardiomyocyte Network model according to experimental data.
 2.2.) run_pharmacological_cases: Generates Bayesian predictions of the effect of pharmacological interventions in the context of volume overload and infusion of growth factots.
 
