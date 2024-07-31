@@ -1,4 +1,4 @@
-# MCMC_Cardiomyocyte_VO_hypertrophy_v1
+# MCMC_Cardiomyocyte_hypertrophy
 
 This program analyze experimental data from animal models of volume overload to produce a Bayesian calibration of a network-like model of cardiomyocyte molecular signaling for hypertrophy.
 
