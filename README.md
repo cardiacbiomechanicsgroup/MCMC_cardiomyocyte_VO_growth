@@ -16,3 +16,7 @@ Intructions:
 2.2.) run_pharmacological_cases: Generates Bayesian predictions of the effect of pharmacological interventions in the context of volume overload and infusion of growth factots.
 
 The program runs in MATLAB 2009b or higher.
+
+* Update 01/12/2025
+
+Version 2 solves a minor bug in run_MCMC_VO and includes an Experimental Data folder. The Experimental Data folder includes .mat files that generates organized data structures with all data used for validation and calibration of the model for cardiomyocyte hypertrophy as in the research article "Contributions of mechanical loading and hormonal changes to eccentric hypertrophy during volume overload: a Bayesian analysis using logic-based network models", preprint available at https://doi.org/10.1101/2024.09.12.612768
